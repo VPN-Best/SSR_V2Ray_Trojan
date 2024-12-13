@@ -1,4 +1,4 @@
-# 2024 主流翻墙机场节点推荐︱稳定好用的手机电脑VPN梯子
+# 2025 主流翻墙机场节点推荐︱稳定好用的手机电脑VPN梯子
 
 机场节点是为手机电脑挂梯子翻墙提供的网络代理服务，如Shadowsocks、V2ray、Trojan等翻墙协议的节点服务器。它们之所以称为“机场”，是因为这些服务最初使用的Shadowsocks和ShadowsocksR（简称SS/SSR）协议，其翻墙客户端是一架纸飞机。科学上网用户通过将这些节点服务订阅文件输入到“飞机”（即Shadowsocks客户端）中，从而实现绕过网络封锁。相较传统翻墙VPN梯子或加速器，中国用户使用翻墙机场不仅更稳定快速，也支持多种网络插件如Clash、v2rayN、v2rayNG、Shadowrocket、sing-box、Clash Verge等。
 
